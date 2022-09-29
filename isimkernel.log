@@ -1,0 +1,29 @@
+Command line:
+   ALU_8_Bit_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50098
+
+Thu Sep 29 18:06:38 2022
+
+
+ Elaboration Time: 0.015625 sec
+
+ Current Memory Usage: 5149.63 Meg
+
+ Total Signals          : 16
+ Total Nets             : 49
+ Total Signal Drivers   : 7
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 9
+ Total Traceable Variables  : 29
+ Total Scalar Nets and Variables : 186
+Total Line Count : 50
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 4677.78 Meg
+
+Thu Sep 29 18:09:04 2022
+
